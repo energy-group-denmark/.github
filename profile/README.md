@@ -1,6 +1,6 @@
 ## About us
 
-nergyGroup is a pioneering energy trading company that has recently emerged, specializing in the Nordics, European, and UK wholesale electricity markets. Established in 2023, the company boasts strong financial backing from reputable investors. Our primary focus is on shaping the future of European commodity trading through the strategic utilization of an extensive algo-trading platform. Leveraging advanced data analytics and thorough research, we make informed decisions that drive profitability in the intraday and day-ahead electricity trading domains. Technology plays a pivotal role in our decision-making process, ensuring efficiency and effectiveness.
+EnergyGroup is a pioneering energy trading company that has recently emerged, specializing in the Nordics, European, and UK wholesale electricity markets. Established in 2023, the company boasts strong financial backing from reputable investors. Our primary focus is on shaping the future of European commodity trading through the strategic utilization of an extensive algo-trading platform. Leveraging advanced data analytics and thorough research, we make informed decisions that drive profitability in the intraday and day-ahead electricity trading domains. Technology plays a pivotal role in our decision-making process, ensuring efficiency and effectiveness.
 
 <!--
 
